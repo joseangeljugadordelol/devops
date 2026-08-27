@@ -1,0 +1,5 @@
+print("Ingrese la base del triángulo: ")
+base = float(input())
+print("Ingrese la altura del triángulo: ")
+altura = float(input())
+print(base * altura / 2)
